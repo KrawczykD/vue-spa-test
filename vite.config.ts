@@ -29,8 +29,8 @@ export default defineConfig({
       }
     }),
     viteExternalsPlugin({
-      vue: 'Vue',
-      '@BookingOnline/vue3-vite-component-library-template': 'vue3vitecomponentlibrarytemplate'
+      vue: 'Vue'
+      // '@BookingOnline/vue3-vite-component-library-template': 'vue3vitecomponentlibrarytemplate'
     })
   ]
 });
