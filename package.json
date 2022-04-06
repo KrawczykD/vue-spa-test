@@ -19,7 +19,6 @@
     "vue": "^3.2.25"
   },
   "devDependencies": {
-    "@BookingOnline/vue3-vite-component-library-template": "0.0.2",
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",
     "@intlify/vite-plugin-vue-i18n": "^3.3.1",
